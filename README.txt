@@ -1,0 +1,1 @@
+This is some starter code for command line argument processing just in case I or anyone needs some in the future. For simplicity sake, the "sample" command line arguments are -n and -m where the accepted values for -n are 1 or 2 and -m are 3 or 4.
